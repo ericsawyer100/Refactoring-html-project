@@ -4,4 +4,4 @@ Hello! This is a project intended to practice refactoring HTML and CSS, specific
 
 HTML refactoring included:
 
-I have begun by Replacing an initial divs with header and nav semantic elements.gitt
+I have begun by Replacing an initial divs with header and nav semantic elements.
